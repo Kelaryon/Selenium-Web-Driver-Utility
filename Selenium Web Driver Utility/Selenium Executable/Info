@@ -1,0 +1,2 @@
+To run the program in cmd type SeleniumWebDriver.exe FirstArgumnet(The department to show) SecondArgument...(The languages to select)
+The program can be run with more than 2 parameters, the second onwwards being used to select more languages
